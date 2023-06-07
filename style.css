@@ -1,0 +1,18 @@
+.heading{
+    width: 100%;
+}
+.heading button{
+    float: right;
+    color: black;
+    border: 1px solid black;
+}
+h4{
+    position: sticky;
+    margin: 0px;
+    background-color: antiquewhite;
+    text-align: center;
+    line-height: 2;
+}
+.modal-dialog{
+    width:90%;
+}
